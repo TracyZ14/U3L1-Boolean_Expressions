@@ -36,6 +36,7 @@ public class BooleanGames
 
     public boolean isOnesDigit(int num)
     {
-        
+        int onesDigit = number % 10;
+        return(Math.abs(onesDigit) == num);
     }
 }

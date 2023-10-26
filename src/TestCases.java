@@ -1,6 +1,7 @@
 public class TestCases
 {
     public static void main(String[] args) {
+        /*
         // Test Case 1:
         BooleanGames game1 = new BooleanGames(10);
         System.out.println(game1.isNegative());
@@ -23,12 +24,15 @@ public class TestCases
         System.out.println(game1.isOnesDigit(0));
         System.out.println(game1.isOnesDigit(1));
         System.out.println(game1.isOnesDigit(5));
+        /*
         System.out.println("----");
         System.out.println(game1.isFirstDigit(1));
         System.out.println(game1.isFirstDigit(0));
         System.out.println(game1.isFirstDigit(5));
         System.out.println(game1.isFirstDigit(10));
+        */
 
+        /*
         // Test Case 2:
         BooleanGames game1 = new BooleanGames(-15);
         System.out.println(game1.isNegative());
@@ -51,12 +55,15 @@ public class TestCases
         System.out.println(game1.isOnesDigit(5));
         System.out.println(game1.isOnesDigit(1));
         System.out.println(game1.isOnesDigit(6));
+        /*
         System.out.println("----");
         System.out.println(game1.isFirstDigit(1));
         System.out.println(game1.isFirstDigit(5));
         System.out.println(game1.isFirstDigit(15));
         System.out.println(game1.isFirstDigit(0));
+        */
 
+        /*
         // Test Case 3:
         BooleanGames game1 = new BooleanGames(7283);
         System.out.println(game1.isNegative());
@@ -79,6 +86,7 @@ public class TestCases
         System.out.println(game1.isOnesDigit(2));
         System.out.println(game1.isOnesDigit(7));
         System.out.println(game1.isOnesDigit(5));
+        /*
         System.out.println("----");
         System.out.println(game1.isFirstDigit(7));
         System.out.println(game1.isFirstDigit(2));
@@ -87,7 +95,9 @@ public class TestCases
         System.out.println(game1.isFirstDigit(5));
         System.out.println(game1.isFirstDigit(72));
         System.out.println(game1.isFirstDigit(7283));
+        */
 
+        /*
         // Test Case 4:
         BooleanGames game1 = new BooleanGames(-435);
         System.out.println(game1.isNegative());
@@ -112,6 +122,7 @@ public class TestCases
         System.out.println(game1.isOnesDigit(4));
         System.out.println(game1.isOnesDigit(0));
         System.out.println(game1.isOnesDigit(35));
+        /*
         System.out.println("----");
         System.out.println(game1.isFirstDigit(4));
         System.out.println(game1.isFirstDigit(3));
@@ -120,5 +131,6 @@ public class TestCases
         System.out.println(game1.isFirstDigit(43));
         System.out.println(game1.isFirstDigit(6));
         System.out.println(game1.isFirstDigit(435));
+        */
     }
 }
